@@ -8,7 +8,7 @@
 1) Diziyi ortadan ikiye bölünmeyecek duruma hale gelene kadar ikiye bölüp en son çıkan parçaları kendi aralarında sıralıyoruz.
 
 
-![left-merge](/left-merge.png)
+![left-merge](https://github.com/huseyinozdagli/patika.dev/blob/main/veri-yapilari-ve-algoritmalar/merge-sort-projesi/left-merge.png)
 
 ---
 
@@ -16,27 +16,27 @@
 
 
 
-![left-merge-complete](/left-merge-complete.png)
+![left-merge-complete](https://github.com/huseyinozdagli/patika.dev/blob/main/veri-yapilari-ve-algoritmalar/merge-sort-projesi/left-merge-complete.png)
 
 ---
 
 3) Kalan kısmı ikiye bölünmeyecek duruma hale gelene kadar ikiye bölüp en son çıkan parçaları kendi aralarında sıralıyoruz.
 
 
-![right-merge](/right-merge.png)
+![right-merge](https://github.com/huseyinozdagli/patika.dev/blob/main/veri-yapilari-ve-algoritmalar/merge-sort-projesi/right-merge.png)
 
 ---
 
 4) Sağ tarafın sıralanması tamamlandı.
 
 
-![right-merge-complete](/right-merge-complete.png)
+![right-merge-complete](https://github.com/huseyinozdagli/patika.dev/blob/main/veri-yapilari-ve-algoritmalar/merge-sort-projesi/right-merge-complete.png)
 
 ---
 
 5) Diziyi birleştirdiğimizde sıralı diziyi elde ediyoruz.
 
-![merge-complete](/sort-done.png)
+![merge-complete](/https://github.com/huseyinozdagli/patika.dev/blob/main/veri-yapilari-ve-algoritmalar/merge-sort-projesi/sort-done.png)
 
 ---
 
