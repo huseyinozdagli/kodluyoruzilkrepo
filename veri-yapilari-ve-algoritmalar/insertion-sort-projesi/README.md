@@ -115,3 +115,6 @@ Best case: Aradığımız sayının dizinin en başında olması.
 3) 3 5 ~~7~~  8 2 9 4 15 6
 
 4) 3 5 2 ~~7~~  ~~8~~ 9 4 15 6
+
+
+Patika ödev linki : https://app.patika.dev/courses/veri-yapilari-ve-algoritmalar/insertion-sort-proje
