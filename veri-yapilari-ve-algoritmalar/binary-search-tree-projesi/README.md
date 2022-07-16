@@ -22,28 +22,28 @@
 
 4) 8, 7'den büyük olduğu için 7'nin sağ düğümüne eklenir.
 
-![4-adim]([/4-adim.png](https://github.com/huseyinozdagli/patika.dev/blob/main/veri-yapilari-ve-algoritmalar/binary-search-tree-projesi/4-adim.png))
+![4-adim](https://github.com/huseyinozdagli/patika.dev/blob/main/veri-yapilari-ve-algoritmalar/binary-search-tree-projesi/4-adim.png)
 
 5) 3, 7'den küçük olduğu için 7'nin sol düğümüne eklenir. 3, 5'den küçük olduğu için 5'in sol düğümüne eklenir. 3, 1'den büyük olduğu için 1'in sağ düğümüne eklenir.
 
-![5-adim]([/5-adim.png](https://github.com/huseyinozdagli/patika.dev/blob/main/veri-yapilari-ve-algoritmalar/binary-search-tree-projesi/4-adim.png))
+![5-adim](https://github.com/huseyinozdagli/patika.dev/blob/main/veri-yapilari-ve-algoritmalar/binary-search-tree-projesi/5-adim.png)
 
 6) 6, 7'den küçük olduğu için 7'nin sol düğümüne eklenir. 6, 5'den büyük olduğu için 5'in sağ düğümüne eklenir.
 
-![6-adim](/6-adim.png)
+![6-adim](https://github.com/huseyinozdagli/patika.dev/blob/main/veri-yapilari-ve-algoritmalar/binary-search-tree-projesi/6-adim.png)
 
 7) 0, 7'den küçük olduğu için 7'nin sol düğümüne eklenir. 0, 5'den küçük olduğu için 5'in sol düğümüne eklenir. 0, 1'den küçük olduğu için 1'in sol düğümüne eklenir.
 
-![7-adim](/7-adim.png)
+![7-adim](https://github.com/huseyinozdagli/patika.dev/blob/main/veri-yapilari-ve-algoritmalar/binary-search-tree-projesi/7-adim.png)
 
 8) 9, 7'den büyük olduğu için 7'nin sağ düğümüne eklenir. 9, 8'den büyük olduğu için 8'in sağ düğümüne eklenir.
 
-![8-adim](/8-adim.png)
+![8-adim](https://github.com/huseyinozdagli/patika.dev/blob/main/veri-yapilari-ve-algoritmalar/binary-search-tree-projesi/8-adim.png)
 
 9) 4, 7'den küçük olduğu için 7'nin sol düğümüne eklenir. 4, 5'den küçük olduğu için 5'in sol düğümüne eklenir. 4, 1'den büyük olduğu için 1'in sağ düğümüne eklenir. 4, 3'den büyük olduğu için 3'ün sağ düğümüne eklenir.
 
-![9-adim](/9-adim.png)
+![9-adim](https://github.com/huseyinozdagli/patika.dev/blob/main/veri-yapilari-ve-algoritmalar/binary-search-tree-projesi/9-adim.png)
 
 10) 2, 7'den küçük olduğu için 7'nin sol düğümüne eklenir. 2, 5'den küçük olduğu için 5'in sol düğümüne eklenir. 2, 1'den büyük olduğu için 1'in sağ düğümüne eklenir. 2, 3'den küçük olduğu için 3'ün sol düğümüne eklenir.
 
-![10-adim](/10-adim.png)
+![10-adim](https://github.com/huseyinozdagli/patika.dev/blob/main/veri-yapilari-ve-algoritmalar/binary-search-tree-projesi/10-adim.png)
