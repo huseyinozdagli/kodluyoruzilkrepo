@@ -47,3 +47,8 @@
 10) 2, 7'den küçük olduğu için 7'nin sol düğümüne eklenir. 2, 5'den küçük olduğu için 5'in sol düğümüne eklenir. 2, 1'den büyük olduğu için 1'in sağ düğümüne eklenir. 2, 3'den küçük olduğu için 3'ün sol düğümüne eklenir.
 
 ![10-adim](https://github.com/huseyinozdagli/patika.dev/blob/main/veri-yapilari-ve-algoritmalar/binary-search-tree-projesi/10-adim.png)
+
+
+Görsellerin kaynağı : http://lab.iossifidis.net/tree-visualisation/BST/
+
+Patika ödev linki : https://app.patika.dev/courses/veri-yapilari-ve-algoritmalar/binary-search-tree-proje
