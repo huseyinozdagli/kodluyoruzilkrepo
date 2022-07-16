@@ -9,16 +9,16 @@
 
 1) Root(Kök düğüm) 7'dir. Rootun sağında veya solunda şuan birşey bulunmaz.
 
-![1-adim](/1-adim.png)
+![1-adim](https://github.com/huseyinozdagli/patika.dev/blob/main/veri-yapilari-ve-algoritmalar/binary-search-tree-projesi/1-adim.png)
 
 
 2) 5, 7'den küçük olduğu için 7'nin sol düğümüne eklenir.
 
-![2-adim](/2-adim.png)
+![2-adim](https://github.com/huseyinozdagli/patika.dev/blob/main/veri-yapilari-ve-algoritmalar/binary-search-tree-projesi/2-adim.png)
 
 3) 1, 7'den küçük olduğu için 7'nin sol düğümüne eklenir. 1, 5'den küçük olduğu için 5'in sol düğümüne eklenir.
 
-![3-adim](/3-adim.png)
+![3-adim](https://github.com/huseyinozdagli/patika.dev/blob/main/veri-yapilari-ve-algoritmalar/binary-search-tree-projesi/3-adim.png)
 
 4) 8, 7'den büyük olduğu için 7'nin sağ düğümüne eklenir.
 
