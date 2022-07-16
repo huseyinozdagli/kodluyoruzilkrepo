@@ -36,7 +36,7 @@
 
 5) Diziyi birleştirdiğimizde sıralı diziyi elde ediyoruz.
 
-![merge-complete](/https://github.com/huseyinozdagli/patika.dev/blob/main/veri-yapilari-ve-algoritmalar/merge-sort-projesi/sort-done.png)
+![merge-complete](https://github.com/huseyinozdagli/patika.dev/blob/main/veri-yapilari-ve-algoritmalar/merge-sort-projesi/sort-done.png)
 
 ---
 
