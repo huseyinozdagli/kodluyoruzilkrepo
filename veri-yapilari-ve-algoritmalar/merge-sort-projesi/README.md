@@ -47,6 +47,7 @@
 
 
 Görsellerin kaynağı : https://www.hackerearth.com/practice/algorithms/sorting/merge-sort/visualize/
+
 Patika ödev linki : https://app.patika.dev/courses/veri-yapilari-ve-algoritmalar/merge-sort-proje
 
 
