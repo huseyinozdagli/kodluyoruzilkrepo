@@ -22,11 +22,11 @@
 
 4) 8, 7'den büyük olduğu için 7'nin sağ düğümüne eklenir.
 
-![4-adim](/4-adim.png)
+![4-adim]([/4-adim.png](https://github.com/huseyinozdagli/patika.dev/blob/main/veri-yapilari-ve-algoritmalar/binary-search-tree-projesi/4-adim.png))
 
 5) 3, 7'den küçük olduğu için 7'nin sol düğümüne eklenir. 3, 5'den küçük olduğu için 5'in sol düğümüne eklenir. 3, 1'den büyük olduğu için 1'in sağ düğümüne eklenir.
 
-![5-adim](/5-adim.png)
+![5-adim]([/5-adim.png](https://github.com/huseyinozdagli/patika.dev/blob/main/veri-yapilari-ve-algoritmalar/binary-search-tree-projesi/4-adim.png))
 
 6) 6, 7'den küçük olduğu için 7'nin sol düğümüne eklenir. 6, 5'den büyük olduğu için 5'in sağ düğümüne eklenir.
 
